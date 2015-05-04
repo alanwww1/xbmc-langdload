@@ -5,7 +5,7 @@ Downloader utility to help addon developers, pulling XBMC translations from XBMC
 
 ## Usage
 
-**1.Simple mode**
+**1. Simple mode**
 
   **xbmc-langdload PROJECTID/ADDONID LOCALDIR [options]**
 
